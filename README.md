@@ -6,3 +6,4 @@
 > Никита Братушка, R3338, 367924 
 
 ## [Lab 1 report](https://edelwiw.github.io/MachineLearning/Lab1.html)
+## [Lab 2 report](https://edelwiw.github.io/MachineLearning/Lab2.html)
