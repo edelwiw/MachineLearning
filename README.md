@@ -8,3 +8,4 @@
 ## [Lab 1 report](https://edelwiw.github.io/MachineLearning/Lab1.html)
 ## [Lab 2 report](https://edelwiw.github.io/MachineLearning/Lab2.html)
 ## [Lab 3 report](https://edelwiw.github.io/MachineLearning/Lab3.html)
+## [Lab 5 report](https://edelwiw.github.io/MachineLearning/Lab5.html)
